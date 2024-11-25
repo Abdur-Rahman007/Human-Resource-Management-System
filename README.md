@@ -11,7 +11,6 @@ JobFinder is a web-based application designed to streamline the job search proce
 
 
 
-
 <h3 align="left">FEATURES</h3>
 
 **User Authentication**: Secure login and registration system for users.
