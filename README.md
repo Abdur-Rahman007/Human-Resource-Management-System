@@ -10,7 +10,6 @@ https://github.com/user-attachments/assets/b5f2f0ef-32b6-477b-a79a-7271596789c4
 JobFinder is a web-based application designed to streamline the job search process for users. Built using ASP.NET, C#, Entity Framework, JavaScript, and MSSQL, this project offers a robust platform.
 
 
-
 <h3 align="left">FEATURES</h3>
 
 **User Authentication**: Secure login and registration system for users.
