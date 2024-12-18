@@ -11,24 +11,17 @@ https://github.com/user-attachments/assets/b5f2f0ef-32b6-477b-a79a-7271596789c4
 
 ## Features
 
-- **Job Seekers:**
-  - Browse job postings with detailed information such as job title, description, requirements, and location.
-  - Filter job listings by criteria including location, job type (full-time, part-time, remote), and category.
-  - Apply for jobs directly through an intuitive interface.
-  - Track application statuses and receive notifications for updates.
+-**User Authentication**: Secure login and registration system for users.
 
-- **Admin Panel:**
-  - Add, edit, and delete job postings with rich text editing support.
-  - View and manage job applications, including exporting data for reporting.
-  - Manage user accounts (activate/deactivate, view application history).
-  - Publish company news and updates to inform job seekers.
+-**Job Listings**: Search, filter, and apply for job openings. See the jobs details.
 
-- **Authentication and Authorization:**
-  - Role-based access control to ensure only admins access administrative functionalities.
+-**Applicant Tracking**: Track job application status.
 
-- **Scalability:**
-  - Modular architecture to allow easy addition of new features.
-  - Optimized database queries using LINQ for high performance.
+-**Modern User Interface**: Responsive design using JavaScript and CSS for an enhanced user experience.
+
+-**Database Management**: MSSQL database integrated with Entity Framework for efficient data handling.
+
+-**HTML5 & CSS3**: Structure and style the UI to provide a clean and modern user experience.
 
 ---
 
@@ -51,7 +44,19 @@ https://github.com/user-attachments/assets/b5f2f0ef-32b6-477b-a79a-7271596789c4
 
 ## Screenshots
 
+![JobFinder home](https://github.com/user-attachments/assets/102ff3e9-2b0b-4e3e-bb8b-ee8b9f5e1db3)
 
+
+![News](https://github.com/user-attachments/assets/ed3b4672-191f-46c8-8c77-dee1ebb52a94)
+
+
+![JobFinder joblist](https://github.com/user-attachments/assets/6584c0d8-cfe9-4828-87a3-4b4ebf65c618)
+
+
+![JobDetails](https://github.com/user-attachments/assets/4f718ca0-9f43-45af-86ba-a69b39388f5d)
+
+
+![JobFinder job details](https://github.com/user-attachments/assets/4de4ae7c-b76b-4b45-857c-f518c311a78b)
 
 ---
 ## Installation and Setup
@@ -101,7 +106,7 @@ Follow these steps to set up the project on your local machine:
 
 6. **Run the Application:**
    - Press `F5` or click the **Start** button in Visual Studio to launch the application.
-   - The application will open in your default browser at `http://localhost:5000` or a similar URL.
+   - The application will open in your default browser at `http://localhost:` or a similar URL.
 
 
 
