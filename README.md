@@ -91,7 +91,7 @@ Follow these steps to set up the project on your local machine:
      ```json
      {
        "ConnectionStrings": {
-         "DefaultConnection": "Server=YOUR_SERVER;Database=JobFinderDB;Trusted_Connection=True;"
+         "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DATABASE_NAME;Trusted_Connection=True;"
        }
      }
      ```
@@ -131,7 +131,7 @@ Follow these steps to set up the project on your local machine:
 Contributions are welcome! Please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch (`feature/your-feature`).
+2. Create a new branch.
 3. Commit your changes with detailed messages.
 4. Push to the branch and create a pull request.
 
