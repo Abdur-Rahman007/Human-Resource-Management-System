@@ -49,6 +49,11 @@ https://github.com/user-attachments/assets/b5f2f0ef-32b6-477b-a79a-7271596789c4
 
 ---
 
+## Screenshots
+
+
+
+---
 ## Installation and Setup
 
 Follow these steps to set up the project on your local machine:
@@ -64,12 +69,12 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/zeynepcol/Job-Finder.git
-   cd Job-Finder
+   git clone https://github.com/zeynepcol/JobFinder.git
+   cd JobFinder
    ```
 
 2. **Open the Project in Visual Studio:**
-   - Open the `Job-Finder.sln` file in Visual Studio.
+   - Open the `JobFinder.sln` file in Visual Studio.
 
 3. **Restore NuGet Packages:**
    - In Visual Studio, go to the **Tools** menu, then select **NuGet Package Manager** > **Manage NuGet Packages for Solution**.
