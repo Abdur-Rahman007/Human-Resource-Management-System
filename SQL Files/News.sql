@@ -1,6 +1,6 @@
 dbo.News
 
-	   [NewsId]
+       [NewsId]
       ,[NewsTitle]
       ,[NewsText]
       ,[NewsImg]
