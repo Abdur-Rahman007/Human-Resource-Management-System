@@ -1,6 +1,6 @@
 dbo.Jobs
 
-	   [JobId]
+       [JobId]
       ,[Title]
       ,[NoOfPost]
       ,[Description]
