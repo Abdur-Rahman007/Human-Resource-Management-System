@@ -1,6 +1,6 @@
 dbo.Jobs
 
-	   [UserId]
+       [UserId]
       ,[Username]
       ,[Password]
       ,[Name]
