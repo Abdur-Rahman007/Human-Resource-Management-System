@@ -1,4 +1,4 @@
 dbo.Country
 
-	   [CountryId]
+       [CountryId]
       ,[CountryName]
