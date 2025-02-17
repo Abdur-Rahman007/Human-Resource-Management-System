@@ -1,6 +1,6 @@
 dbo.Contact
 
-	   [ContactId]
+       [ContactId]
       ,[Name]
       ,[Email]
       ,[Subject]
