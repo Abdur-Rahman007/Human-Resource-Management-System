@@ -67,46 +67,23 @@ Follow these steps to set up the project on your local machine:
 
 - .NET Framework installed (version 4.7.2 or higher) or .NET Core SDK for cross-platform compatibility.
 - Visual Studio (i used 2022 version) with ASP.NET and web development workloads.
-- MSSQL Server installed and running.
+- SQL Server installed and running.
 - Git for version control.
 
 ### Steps
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/zeynepcol/JobFinder.git
-   cd JobFinder
-   ```
 
-2. **Open the Project in Visual Studio:**
-   - Open the `JobFinder.sln` file in Visual Studio.
+2. **Open the Project:**
 
 3. **Restore NuGet Packages:**
-   - In Visual Studio, go to the **Tools** menu, then select **NuGet Package Manager** > **Manage NuGet Packages for Solution**.
-   - Ensure all required packages are restored automatically.
 
 4. **Set Up the Database:**
-   - Open the `appsettings.json` file in the `JobFinder.Web` project.
-   - Update the `ConnectionStrings:DefaultConnection` section with your MSSQL Server credentials:
-     ```json
-     {
-       "ConnectionStrings": {
-         "DefaultConnection": "Server=YOUR_SERVER;Database=YOUR_DATABASE_NAME;Trusted_Connection=True;"
-       }
-     }
-     ```
-   - Open the **Package Manager Console** in Visual Studio and run the following commands to create and seed the database:
-     ```bash
-     Add-Migration InitialCreate
-     Update-Database
-     ```
-
+ 
 5. **Configure the Startup Project:**
-   - Right-click on the `JobFinder.Web` project in the Solution Explorer and select **Set as Startup Project**.
 
 6. **Run the Application:**
-   - Press `F5` or click the **Start** button in Visual Studio to launch the application.
-   - The application will open in your default browser at `http://localhost:` or a similar URL.
+
 
 
 
