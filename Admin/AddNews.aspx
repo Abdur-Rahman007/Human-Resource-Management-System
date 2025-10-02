@@ -39,6 +39,12 @@
                         OnClick="btnAdd_Click"/>
                 </div>
             </div>
+            <div class="row mr-lg-5 ml-lg-5 mb-3 pt-4">
+               <div class="col-md-3 col-md-offset-2 mb-3">
+                     <asp:Button ID="Button1" runat="server" CssClass="btn btn-primary btn-block" BackColor="#000000" Text="Add News"
+                         OnClick="btnAdd_Click"/>
+                </div>      
+            </div>      
         </div>
     </div>
         
